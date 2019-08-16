@@ -304,7 +304,7 @@ cstackCOMRAM 1 24 COMRAM 1 1
 %locals
 dist/default/production\LAB3_SerialInput.X.production.o
 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\include\pic18f23k22.h
-C:\Users\user\AppData\Local\Temp\s21g.
+C:\Users\user\AppData\Local\Temp\svdk.
 3669 210 0 CODE 0
 3671 210 0 CODE 0
 3674 210 0 CODE 0
